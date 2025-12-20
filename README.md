@@ -1,6 +1,7 @@
 # Applied Statistics
 
-![example_image.](img/example_image.png)
+![banner_image.](img/nadeem_cartoon_drowning.png) 
+https://statsmadeeasy.blogspot.com/2007/07/drowning-in-statistics.html
 
 This repository contains submissions for the Applied Statistics module at Atlantic Technologic University (ATU) 2025. 
 
@@ -74,5 +75,3 @@ Juypter and VSCode help can be found using the links below:
 M. Holmes, 2025
 
 holmstead@protonmail.com
-
-## References
